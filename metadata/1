@@ -1,0 +1,12 @@
+{
+  "name": "Aruk with Notail",
+  "description": "Aruk with Notail.",
+  "external_url": "https://www.facebook.com/photo/?fbid=10205623127972819&set=a.1168901998026",
+  "image": "https://storage.googleapis.com/aruk-nft-test/images/1.jpeg",
+  "attributes": [
+    {
+      "trait_type": "level",
+      "value": 88
+    }
+  ]
+}

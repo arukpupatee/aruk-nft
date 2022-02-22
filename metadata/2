@@ -1,0 +1,12 @@
+{
+  "name": "Aruk the Magician",
+  "description": "Aruk the Magician.",
+  "external_url": "https://www.facebook.com/photo/?fbid=10201848636892901&set=a.1168901998026",
+  "image": "https://storage.googleapis.com/aruk-nft-test/images/2.jpeg",
+  "attributes": [
+    {
+      "trait_type": "level",
+      "value": 88
+    }
+  ]
+}
